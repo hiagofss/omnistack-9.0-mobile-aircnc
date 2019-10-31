@@ -9,3 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+
+
+
+
+#https://github.com/expo/expo-cli/issues/1074
